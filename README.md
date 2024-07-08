@@ -1,5 +1,5 @@
 เริ่มต้นติดตั้ง Projrct
--Clone Project
+- เริ่มต้นจากการ Clone Project
 - "npm install"  [ สำหรับ install dependency ที่อยู่ใน packgate.json ]
 - แตก Branch จาก Main
 - เมื่อทำการเขียน Code เสร็จแล้วให้ทำการ Commit Code เพื่อเปิด Pullrequest (Pullrequest คือ คำขอในการรวม Code ของ Feature ที่เราทำงาน เพื่อไปรวมกับ Project หลักของเรา )
